@@ -6,3 +6,6 @@ This program solves the 8-Puzzle Problem using A* Algorithm
 - H2: Manhatten distance from the final box
 
 Replacing H1 with H2 in "main" solves the puzzle using H2 heuristic
+
+## Assumption
+Empty space is assumed as 0
